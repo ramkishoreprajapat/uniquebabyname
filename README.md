@@ -17,7 +17,7 @@ dependencyResolutionManagement {
 }
 ```
 
- ## 2. Add the dependency
+ ## 2. Add the dependency your app gradle
 ```
  implementation 'com.github.ramkishoreprajapat:uniquebabyname:0.0.4'
 ```
