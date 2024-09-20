@@ -2,7 +2,7 @@
 Get a unique baby name from the list.
 
 # Installation
-## 1. Add it to your root build.gradle at the end of repositories:
+## 1. Add it to your settings.gradle.kts
 ```
 dependencyResolutionManagement {
     repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
